@@ -2,7 +2,7 @@
 
 Um simples servidor web em NodeJS com o módulo http
 
-```javascrip
+```tsx
 const http = require("http");
 const url = require("url");
 const fs = require("fs");
